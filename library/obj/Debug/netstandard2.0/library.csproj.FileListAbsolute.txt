@@ -1,0 +1,8 @@
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/bin/Debug/netstandard2.0/library.dll
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/bin/Debug/netstandard2.0/library.pdb
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/obj/Debug/netstandard2.0/library.dll
+/Users/bizon7nt/Desktop/Projects/DotNetCore/Golden/library/obj/Debug/netstandard2.0/library.pdb
